@@ -1,0 +1,28 @@
+{
+  "name": "eth-rpc-by-hand",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Talk to Ethereum mainnet with raw JSON-RPC — no library, no API key. Companion code for Episode 4 of The Complete Guide to RPC for Web3 Developers.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "01": "node 01-block-number.js",
+    "02": "node 02-get-balance.js",
+    "03": "node 03-read-a-block.js",
+    "04": "node 04-eth-call-totalsupply.js",
+    "05": "node 05-latest-moves.js",
+    "06": "node 06-subscribe-newheads.js"
+  },
+  "keywords": [
+    "json-rpc",
+    "rpc",
+    "ethereum",
+    "web3",
+    "eth_call",
+    "eth_subscribe",
+    "tutorial"
+  ],
+  "author": "Jesper Kristensen (https://www.youtube.com/@cryptojesperk)",
+  "license": "MIT"
+}
