@@ -6,7 +6,7 @@ Companion code for **Episode 4** of *The Complete Guide to RPC for Web3 Develope
 
 This is the episode where the series graduates from the toy server (Ep. 2) to the **real chain**. Every script is a live call against a public mainnet endpoint.
 
-▶️ **Watch the video:** [The Complete Guide to RPC for Web3 Developers (Ep. 4)](VIDEO_URL)
+▶️ **Watch the video:** [The Complete Guide to RPC for Web3 Developers (Ep. 4)](https://youtu.be/eKruNL0CofA)
 🎙️ **Full series:** [@cryptojesperk on YouTube](https://www.youtube.com/@cryptojesperk)
 
 🚀 **The future of RPC:** **[direct.dev](https://direct.dev)** — RPC, reimagined. A leap, not a step.
